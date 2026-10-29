@@ -77,7 +77,7 @@
 
 <h2>¿Cómo tener listo mi proyecto previo a darle Run?</h2>
 <h3>Backend</h3>
-<p>Debes ejecutar el comando "npm install". Además, debes crear un archivo ".env", en el cual copias todo el contenido del archivo ".env.example", pero debes colocar los datos de tu PORT, donde correrás tu servidor NodeJS, y también los datos de tu MONGOURI, es decir para acceder a tu base de datos./p>
+<p>Debes ejecutar el comando "npm install". Además, debes crear un archivo ".env", en el cual copias todo el contenido del archivo ".env.example", pero debes colocar los datos de tu PORT, donde correrás tu servidor NodeJS, y también los datos de tu MONGOURI, es decir para acceder a tu base de datos.</p>
 <p>Ejemplo de ".env"</p>
 <p>PORT=3001</p>
 <p>MONGO_URI=mongodb://localhost:27017/burger_friend</p>
